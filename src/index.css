@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add small helpers if you want */
+html, body, #root {
+  height: 100%;
+}
